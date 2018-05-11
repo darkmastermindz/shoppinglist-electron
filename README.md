@@ -1,2 +1,2 @@
 # shoppinglist-electron
-Test Project, MultiPlatform Shopping List
+Test Project, MultiPlatform, Desktop Shopping List
